@@ -1,0 +1,11 @@
+Elephant
+Zebra
+LION
+monkey
+flower
+Cycle
+Lucky
+Luxury
+matrix
+puzzle
+Hangman
