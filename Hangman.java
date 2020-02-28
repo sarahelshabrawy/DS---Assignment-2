@@ -36,7 +36,7 @@ public class Hangman implements IHangman {
 
        public void setDictionary(String[] words)  {
            dictionary = new String[numberofWords];
-           if (numberofWords >= 0) System.arraycopy(words, 0, dictionary, 0, numberofWords);
+           if (numberofWords > 0) System.arraycopy(words, 0, dictionary, 0, numberofWords);
         }
 
       public String selectRandomSecretWord(){
